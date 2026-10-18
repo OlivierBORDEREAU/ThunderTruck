@@ -49,8 +49,6 @@ Puis ouvre <http://127.0.0.1:8765/> dans ton navigateur. Une connexion internet 
 - `index.html` : page de lancement.
 - `sketch.js` : tout le jeu.
 - `assets/` : sprites et loader (atlas `road_atlas`, décor `road_extras`, `loader.png`).
-- `assets_proposal/` : propositions de sprites et scripts de génération.
-- `CPC-EXPERIMENTS.md`, `ASPHALT-VS-MVP.md`, `GROK-HANDOFF.md` : notes de conception, de style CPC et règles du projet.
 
 ### Inspirations et style
 
@@ -109,8 +107,6 @@ Then open <http://127.0.0.1:8765/> in your browser. An internet connection is re
 - `index.html`: the launch page.
 - `sketch.js`: the whole game.
 - `assets/`: sprites and loader (`road_atlas` atlas, `road_extras` scenery, `loader.png`).
-- `assets_proposal/`: sprite proposals and generation scripts.
-- `CPC-EXPERIMENTS.md`, `ASPHALT-VS-MVP.md`, `GROK-HANDOFF.md`: design notes, CPC look brief and project rules.
 
 ### Inspirations and style
 

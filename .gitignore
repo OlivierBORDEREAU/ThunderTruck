@@ -2,3 +2,6 @@
 *.dsk
 assets_proposal/
 skills-archive/
+*.rvmstate
+*.md
+!README.md
