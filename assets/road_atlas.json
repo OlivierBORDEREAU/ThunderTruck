@@ -1,0 +1,17 @@
+{
+  "spec_version": 1,
+  "transparent_rgb": [0, 0, 0],
+  "frames": [
+    {"name": "truck_cargo", "x": 0, "y": 0, "w": 112, "h": 80},
+    {"name": "truck_cab", "x": 113, "y": 0, "w": 112, "h": 80},
+    {"name": "truck_tires", "x": 226, "y": 0, "w": 112, "h": 80},
+    {"name": "truck_turret", "x": 339, "y": 0, "w": 96, "h": 96},
+    {"name": "bike", "x": 436, "y": 0, "w": 48, "h": 32},
+    {"name": "car", "x": 485, "y": 0, "w": 64, "h": 40},
+    {"name": "sidecar", "x": 550, "y": 0, "w": 64, "h": 40},
+    {"name": "crate_mine", "x": 615, "y": 0, "w": 24, "h": 20},
+    {"name": "crate_repair", "x": 640, "y": 0, "w": 24, "h": 20},
+    {"name": "crate_life", "x": 665, "y": 0, "w": 24, "h": 20},
+    {"name": "crate_flame", "x": 690, "y": 0, "w": 24, "h": 20}
+  ]
+}

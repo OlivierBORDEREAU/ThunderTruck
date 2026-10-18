@@ -1,0 +1,19 @@
+{
+  "spec_version": 1,
+  "transparent_rgb": [0, 0, 0],
+  "frames": [
+    {"name": "flame_1", "x": 0, "y": 0, "w": 44, "h": 28},
+    {"name": "flame_2", "x": 45, "y": 0, "w": 44, "h": 28},
+    {"name": "flame_3", "x": 90, "y": 0, "w": 44, "h": 28},
+    {"name": "mine_armed", "x": 135, "y": 0, "w": 24, "h": 20},
+    {"name": "mine_blink", "x": 160, "y": 0, "w": 24, "h": 20},
+    {"name": "roadside_tree_1", "x": 0, "y": 29, "w": 40, "h": 40},
+    {"name": "roadside_tree_2", "x": 41, "y": 29, "w": 36, "h": 36},
+    {"name": "roadside_bush_1", "x": 78, "y": 29, "w": 28, "h": 28},
+    {"name": "roadside_bush_2", "x": 107, "y": 29, "w": 24, "h": 24},
+    {"name": "roadside_rock", "x": 132, "y": 29, "w": 20, "h": 16},
+    {"name": "roadside_post", "x": 153, "y": 29, "w": 16, "h": 16},
+    {"name": "roadside_sign_km", "x": 170, "y": 29, "w": 24, "h": 16},
+    {"name": "roadside_gravel", "x": 0, "y": 70, "w": 32, "h": 12}
+  ]
+}

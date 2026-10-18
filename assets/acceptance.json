@@ -1,0 +1,29 @@
+{
+  "spec_version": 1,
+  "files": [
+    {
+      "name": "loader.png",
+      "w": 800,
+      "h": 600,
+      "unique_colors": 16,
+      "semi_transparent_pixels": 0,
+      "pass": true
+    },
+    {
+      "name": "road_atlas.png",
+      "w": 714,
+      "h": 96,
+      "unique_colors": 15,
+      "colors_outside_firmware": 0,
+      "semi_transparent_pixels": 0,
+      "pass": true
+    }
+  ],
+  "forward_is_right": true,
+  "turret_separate": true,
+  "flame_baked_into_hull": false,
+  "control_text_baked": false,
+  "unverified": [
+    "control_text_baked: no OCR run; asserted by construction (atlas drawn only from rectangles in make_spec_v11.py, no text routine; loader.png unchanged, its only text is THUNDERTRUCK and (C) 1987, visually checked)"
+  ]
+}
