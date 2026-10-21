@@ -13,7 +13,7 @@ const TRUCK_X = LOGICAL_W / 2;
 const TRUCK_HW = 45;
 const TRUCK_HH = 22;
 const TRUCK_SPEED = 168; // px/s — was 2.8 px/frame
-const SCROLL_SPEED = 180; // scenery ~50Hz; logic is 25Hz
+const SCROLL_SPEED = 180; // px/s logiques ; update() a pas fixe STEP = 1/60 s avec rattrapage (while acc >= STEP) : pas d'horloge 50 Hz / 25 Hz separee
 const DASH_PERIOD = 50;
 
 const BULLET_SPEED = 560;
